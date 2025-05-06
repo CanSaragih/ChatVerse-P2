@@ -4,10 +4,10 @@ A real-time chatroom web app powered by Socket.IO and integrated with an AI assi
 
 ## 👨‍👩‍👧‍👦 Team Members
 
-- - – Frontend & UI/UX
-- - – Backend & Database
-- - – AI Integration
-- - – DevOps & Deployment
+- Can – Frontend & UI/UX
+- Ella, Resya – Backend & Database
+- Fahri – AI Integration
+
 
 ## 🚀 Tech Stack
 
